@@ -6,7 +6,7 @@ You may access the paper for the same at http://www.sciencedirect.com/science/ar
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install aefaalgo.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install aefaalgo (https://pypi.org/project/aefaalgo/).
 
 ```bash
 pip install aefaalgo
